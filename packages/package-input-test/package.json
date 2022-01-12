@@ -1,0 +1,32 @@
+{
+  "name": "package-input-test",
+  "version": "1.0.0",
+  "description": "自定义脚本用于相应的实践测试",
+  "keywords": [
+    "input"
+  ],
+  "author": "李旺平 <wangping.li@aifenlei.com>",
+  "homepage": "https://github.com/liwangping/lernaTest#readme",
+  "license": "ISC",
+  "main": "lib/package-input-test.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liwangping/lernaTest.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/liwangping/lernaTest/issues"
+  }
+}
